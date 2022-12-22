@@ -6,3 +6,11 @@ Unity Package for HybridCLR
 安装HybridCLR前填上unity2019.4.40的Editor目录
 
 其他年度版本可以按照同样的方法让低于HybridCLR最小支持版本的unity运行起来
+
+
+
+
+
+致谢仓库
+
+focus-creative-games/hybridclr_unity
