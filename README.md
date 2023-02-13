@@ -1,11 +1,4 @@
 # hybridclr_unity
 Unity Package for HybridCLR
 
-魔改hybridclr的package，使hybridclr去除unity的版本限制。如果你项目的unity版本不支持hybridclr，你需要安装hybridclr支持的最小unity版本，该unity的年度和你的项目unity一样，然后安装hybridclr的时候填写支持的unity的Editor目录。
 
-
-
-
-致谢仓库
-
-focus-creative-games/hybridclr_unity
