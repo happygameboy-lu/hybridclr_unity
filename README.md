@@ -1,7 +1,7 @@
 # hybridclr_unity
 Unity Package for HybridCLR
 
-±¾²Ö¿âÊÇ¶Ôhttps://github.com/focus-creative-games/hybridclr_unity½øÐÐÐÞ¸Ä£¬¸ÐÐ»²Ö¿â×÷Õß
+æœ¬ä»“åº“æ˜¯å¯¹ https://github.com/focus-creative-games/hybridclr_unity è¿›è¡Œä¿®æ”¹ï¼Œæ„Ÿè°¢ä»“åº“ä½œè€…
 
 
 
